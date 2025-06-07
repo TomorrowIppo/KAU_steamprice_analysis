@@ -47,16 +47,6 @@
 
 Steam 플랫폼의 게임들은 대부분 저가 또는 무료 형태로 제공되며, 고가의 게임은 소수에 불과합니다. 이는 게임 유통 전략, 시장 수요, 인디 개발자의 접근성 등을 반영한 결과로 해석될 수 있습니다.
 
-## 📁 파일 구조
-
-```
-.
-├── steam.csv
-├── 분석스크립트.py
-├── 가격대에따른게임수.png
-└── README.txt
-```
-
 ## 🔍 참고
 
 - Python `pandas.cut()` 문서: https://pandas.pydata.org/docs/reference/api/pandas.cut.html  
